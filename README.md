@@ -1,4 +1,4 @@
-# Bart-Large Summarization on SAMSum Dataset
+# SummarizerPro-With-HuggingFace on SAMSum Dataset
 
 Fine-tune **Facebook's Bart-Large** model for abstractive text summarization using the **SAMSum Dialogue Dataset**. The project implements training, evaluation, and inference pipelines, leveraging state-of-the-art libraries such as **Hugging Face Transformers**, **Datasets**, and **Weights & Biases** for experiment tracking.
 
