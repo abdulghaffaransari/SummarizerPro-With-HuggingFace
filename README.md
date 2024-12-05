@@ -198,4 +198,3 @@ Special thanks to the Hugging Face team and the creators of the SAMSum dataset f
 
 ---
 
-This repository demonstrates a deep understanding of summarization tasks, from dataset preparation to fine-tuning and deployment. Feel free to fork and experiment with this codebase. Feedback and contributions are welcome!
